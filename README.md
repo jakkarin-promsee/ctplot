@@ -481,3 +481,5 @@ Released under the [MIT License](LICENSE).
 > refactored into a portfolio piece: correctness and memory-safety fixed, split into a real
 > linkable library, made portable, and given the chart types, CLI, and docs above. The full
 > level-by-level history is in [ROADMAP.md](ROADMAP.md)._
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
